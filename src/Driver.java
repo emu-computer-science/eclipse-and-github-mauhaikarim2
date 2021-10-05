@@ -3,5 +3,7 @@ public class Driver {
         System.out.println("Team Mauhaikarim rules");
         Hungry garrett = new Hungry();
         garrett.test();
+        Sad albara = new Sad();
+        albara.sad();
     }
 }
