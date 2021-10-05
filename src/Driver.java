@@ -5,5 +5,7 @@ public class Driver {
         garrett.test();
         Sad albara = new Sad();
         albara.sad();
+        Glad colin = new Glad();
+        colin.Glad();
     }
 }
